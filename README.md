@@ -13,7 +13,24 @@ By default, Myshop comes with the payment gateway PayPal. Due to the extensible 
 About MyShop for XOOPS Cube Legacy
 ====
 
-
+ Myshop module for Xoops Cube Legacy 2.1+
+ Copyright (c) 2012
+ 
+ You may not change or alter any portion of this comment or credits
+ of supporting developers from this source code or any supporting source code
+ which is considered copyrighted (c) material of the original comment or credit authors.
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ 
+ @license   http://www.fsf.org/copyleft/gpl.html GNU public license
+ @package   Myshop
+ @author   	version 1.70 Myshop by Gigamaster
+ @credits   version 1.64 Bookshop by Hervé Thouzard
+ 
+ Version : $Id: 2.00
+  
+  
 ***
 
 Downloads
