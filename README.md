@@ -24,8 +24,11 @@ About MyShop for XOOPS Cube Legacy
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  
  @license   http://www.fsf.org/copyleft/gpl.html GNU public license
+ 
  @package   Myshop
+ 
  @author   	version 1.70 Myshop by Gigamaster
+ 
  @credits   version 1.64 Bookshop by Hervé Thouzard
  
  Version : $Id: 2.00
